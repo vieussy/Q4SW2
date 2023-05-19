@@ -87,6 +87,7 @@ button{
 	margin-left: 600px;
 	display: flexbox;
 	height: fit-content;
+	width: 290px;
 }
 
 input:focus, textarea:focus, select:focus{
